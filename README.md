@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="ChatGPT Image 21 de set. de 2026, 13_28_43.png" alt="Capa do projeto" width="100%">
+</p> 
 # Projeto DIO — Integrando Dados com MySQL Azure e Transformando com Power BI
 
 ## Objetivo
