@@ -1,0 +1,9 @@
+﻿Ssn,Nome,Bdate,Address,Sex,Salario,Dname,Gerente,Dno
+123456789,John Smith,1965-01-09,"731 Fondren, Houston TX",M,30000.0,Research,Franklin,5
+333445555,Franklin Wong,1965-12-08,"638 Voss, Houston TX",M,40000.0,Research,James,5
+999887777,Alicia Zelaya,1968-01-19,"3321 Castle, Spring TX",F,25000.0,Administration,Jennifer,4
+987654321,Jennifer Wallace,1941-06-20,"291 Berry, Bellaire TX",F,43000.0,Administration,James,4
+666884444,Ramesh Narayan,1962-09-15,"975 Fire Oak, Humble TX",M,38000.0,Research,Franklin,5
+453453453,Joyce English,1972-07-31,"5631 Rice, Houston TX",F,25000.0,Research,Franklin,5
+987987987,Ahmad Jabbar,1969-03-29,"980 Dallas, Houston TX",M,25000.0,Administration,Jennifer,4
+888665555,James Borg,1937-11-10,"450 Stone, Houston TX",M,55000.0,Headquarters,Sem gerente,1

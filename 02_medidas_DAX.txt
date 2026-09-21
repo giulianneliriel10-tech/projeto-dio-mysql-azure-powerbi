@@ -1,0 +1,7 @@
+-- Medidas sugeridas para o Power BI
+Total Colaboradores = DISTINCTCOUNT(Employee_Tratada[Ssn])
+Total Departamentos = DISTINCTCOUNT(Employee_Tratada[Dno])
+Total Salários = SUM(Employee_Tratada[Salario])
+Média Salarial = AVERAGE(Employee_Tratada[Salario])
+Total Horas = SUM(Horas_Projeto[Horas_Total])
+Total Projetos = DISTINCTCOUNT(Horas_Projeto[Pno])
